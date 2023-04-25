@@ -1,0 +1,3 @@
+dotenv resource
+
+aggiunto .gitignore

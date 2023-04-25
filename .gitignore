@@ -1,0 +1,10 @@
+#comment on.env with "#"
+
+#Ignrora i .env
+.env
+
+#Ignora cartella node_modules
+/node_modules
+
+#Ignora il data base
+database.db
